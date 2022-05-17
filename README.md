@@ -1,3 +1,11 @@
-## account
-wayne@mail.com
-wayne123
+# 加密多人聊天室
+## 功能
+- 多人即時聊天
+- 加密聊天室
+
+##學習目標
+- 前後端分離
+- 基礎SPA(vue.js)
+- websocket
+
+##

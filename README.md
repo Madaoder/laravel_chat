@@ -8,4 +8,6 @@
 - 基礎SPA(vue.js)
 - websocket
 
-##
+##使用工具
+- 前端:vue.js
+- 後端:laravel
